@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         EdX Subtitle Copier
+// @name         EdX Transcript Copier
 // @namespace    http://tampermonkey.net/
 // @version      1.5
 // @description  Adds a button to the EdX video player to copy subtitles. Runs inside the video iframe.
